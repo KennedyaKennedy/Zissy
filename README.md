@@ -1,4 +1,4 @@
-# 🌟 Zissy AI Ecosystem: Master Guide
+# 🌟 Zissy AI Ecosystem: Master Guide (Zissy is Broken, Currently Fixing as of 2/18/2026, none of her release's are up to date, do not download!)
 > **More than an AI — A companion that lives in your computer.**
 
 Welcome to the Zissy AI Project Drive. This project is a comprehensive suite of local-first AI tools designed for companionship, personalization, and high-performance desktop presence.
