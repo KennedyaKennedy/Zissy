@@ -12,8 +12,8 @@ The project is divided into three specialized "Editions" to suit your needs:
 | Edition | Location | Who is it for? | Key Benefit |
 | :--- | :--- | :--- | :--- |
 | **🚀 User Release** | `H:\Zissy_Release` | **General Users / Testers** | Smallest size (1.6GB), zero-setup installer, optimized for VMs. | (Gets Updates and Support)
-| **💻 Developer** | `H:\Zissy` | **Advanced Developers** | Full source code, build tools, and experimental features. | (Will NOT be updated and will get NO support unless i do big changes)
-| **🌍 Open Source** | `H:\Zissy_OpenSource` | **Public/Community** | Sanitized (no PII), generic persona. | (Will NOT be updated and will get NO support unless i do big changes)
+| **💻 Developer** | `H:\Zissy` | **Advanced Developers** | Full source code, build tools, and experimental features. | (Gets Updates and Support)
+| **🌍 Open Source** | `H:\Zissy_OpenSource` | **Public/Community** | Sanitized (no PII), generic persona. | (Gets Updates and Support)
 
 ---
 
