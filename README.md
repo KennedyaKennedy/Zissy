@@ -1,3 +1,18 @@
+<p align="center">
+  <img src="https://socialify.git.ci/KennedyaKennedy/Zissy/image?custom_language=Hugging+Face&description=1&font=Bitter&language=1&name=1&owner=1&pattern=Circuit+Board&stargazers=1&theme=Dark" alt="Zissy Header" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20-Hugging%20Face-FFD21E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status%3F-under%20development-orange.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MIT_-_license-red?style=for-the-badge" />
+</p>
+
+
+
+
+
 # 🌟 Zissy AI Ecosystem: Master Guide (Zissy is Broken, Currently Fixing as of 2/18/2026, none of her release's are up to date, do not download!)
 > **More than an AI — A companion that lives in your computer.**
 
@@ -62,3 +77,5 @@ To be less lonel
 *Treat Zissy well, and she will grow with you.* 🌸
 
 Note in general: When i update (RAM and stuff) and later on, i will update her, make her better and add more stuff (Yes More Projects too) so please have patience, you can also suggest stuff or let me know about bugs?
+
+My Website: https://ken3.carrd.co/
