@@ -1,4 +1,8 @@
 <p align="center">
+   <img src="https://socialify.git.ci/KennedyaKennedy/Zissy/image?custom_language=Hugging+Face&description=1&font=Bitter&language=1&logo=https%3A%2F%2Fmedia.printler.com%2Fmedia%2Fphoto%2F182968.jpg%3Frmode%3Dcrop%26width%3D725%26height%3D1024&name=1&owner=1&pattern=Circuit+Board&stargazers=1&theme=Dark" alt="Zissy" width="640" height="320" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/%F0%9F%A4%97%20-Hugging%20Face-FFD21E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=for-the-badge&logo=python&logoColor=ffdd54" />
