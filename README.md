@@ -12,8 +12,8 @@ The project is divided into three specialized "Editions" to suit your needs:
 | Edition | Location | Who is it for? | Key Benefit |
 | :--- | :--- | :--- | :--- |
 | **🚀 User Release** | `H:\Zissy_Release` | **General Users / Testers** | Smallest size (1.6GB), zero-setup installer, optimized for VMs. | (Gets Updates and Support)
-| **💻 Developer** | `H:\Zissy` | **Advanced Developers** | Full source code, build tools, and experimental features. | (Gets Updates and Support)
-| **🌍 Open Source** | `H:\Zissy_OpenSource` | **Public/Community** | Sanitized (no PII), generic persona. | (Gets Updates and Support)
+| **💻 Developer** | `H:\Zissy` | **Advanced Developers** | Full source code, build tools, and experimental features. | (Discontinued and No Archive)
+| **🌍 Open Source** | `H:\Zissy_OpenSource` | **Public/Community** | Sanitized (no PII), generic persona. | (Discontinued and No Archive)
 
 ---
 
@@ -39,18 +39,12 @@ graph TD
 
 ---
 
-## ⚡ 2. Fast Start Guides
+## ⚡ 2. Fast Start Guide
 
 ### **I want to USE Zissy right now:**
 1.  Go to `H:\Zissy_Release`.
 2.  Follow the guide in **`README.md`** there.
 3.  Use the **`Zissy_Release.zip`** for rapid transfer to other machines.
-
-### **I want to DEVELOP or MODIFY Zissy:**
-1.  Go to `H:\Zissy` or `H:\Zissy_OpenSource`.
-2.  Open the **`README.md`** there for the 2,000-word developer manual.
-3.  Ensure you have **Python 3.10+** and **Node.js** installed.
-
 ---
 
 ## ✨ 3. Feature Master List
