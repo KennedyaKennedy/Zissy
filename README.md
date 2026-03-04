@@ -1,12 +1,13 @@
 <p align="center">
-  <img src="https://socialify.git.ci/KennedyaKennedy/Zissy/image?custom_language=Hugging+Face&description=1&font=Bitter&language=1&name=1&owner=1&pattern=Circuit+Board&stargazers=1&theme=Dark" alt="Zissy Header" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20-Hugging%20Face-FFD21E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20-Hugging%20Face-FFD21E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Status%3F-under%20development-orange.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/github/v/release/KennedyaKennedy/Zissy?style=for-the-badge&color=blue" />
   <img src="https://img.shields.io/badge/MIT_-_license-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status%3F-under%20development-orange?style=for-the-badge" />
 </p>
 
 
